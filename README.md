@@ -74,6 +74,18 @@
 
 <br/>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/HarrickChristoJP?style=for-the-badge&label=Followers&color=blue"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHarrickChristoJP&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=success"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHarrickChristoJP&label=Public%20Gists&query=%24.public_gists&style=for-the-badge&color=orange"/>
+
+</div>
+
+<br/>
+
 ## 📈 Contribution Activity
 
 <div align="center">
