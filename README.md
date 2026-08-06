@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6DB33F&height=220&section=header&text=Harrick%20Christo%20J%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20DS&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=650&lines=Building+scalable+apps+with+Spring+Boot+%26+React;Solving+DSA+in+Java+daily;Exploring+AI+%2F+ML+%2B+Embedded+Systems;Preparing+for+top+product-based+companies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=500&lines=Spring+Boot+%26+React+Developer;Solving+DSA+daily+in+Java;Aspiring+Product-Based+SWE" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table>
 <tr>
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HarrickChristoJP&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HarrickChristoJP&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -113,7 +113,7 @@
 
 <br/>
 
-## 🧩 Competitive Programming
+##  Competitive Programming
 
 <div align="center">
 
@@ -135,7 +135,7 @@
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -215,17 +215,17 @@ MySQL-backed Flask platform processing 300+ pickup requests monthly with a respo
 
 <br/>
 
-## 🎯 2026 Goals
+##  2026 Goals
 
-- 🚀 Solve 500+ additional LeetCode problems
-- 🌱 Master Spring Boot & React at a production-ready level
-- 💼 Secure a Software Engineering role at a product-based company
-- 📚 Deep-dive into System Design
-- ☁️ Explore Cloud & DevOps fundamentals
+-  Solve 500+ additional LeetCode problems
+-  Master Spring Boot & React at a production-ready level
+-  Secure a Software Engineering role at a product-based company
+-  Deep-dive into System Design
+-  Explore Cloud & DevOps fundamentals
 
 <br/>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/HarrickChristoJP/HarrickChristoJP/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation"/>
@@ -237,6 +237,6 @@ MySQL-backed Flask platform processing 300+ pickup requests monthly with a respo
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile — if you like my projects, consider giving them a star!**
+ **Thanks for visiting my profile — if you like my projects, consider giving them a star!**
 
 </div>
