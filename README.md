@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6DB33F&height=220&section=header&text=Harrick%20Christo%20J%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20DS&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=500&lines=Spring+Boot+%26+React+Developer;Solving+DSA+daily+in+Java;Aspiring+Product-Based+SWE" alt="Typing SVG" />
-
-<br/>
-
 <a href="https://www.linkedin.com/in/harrick-jp/" target="_blank"><img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/HarrickChristoJP" target="_blank"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logoColor=white"/></a>
 <a href="https://leetcode.com/u/harrickchristojp/" target="_blank"><img src="https://img.shields.io/badge/🧩_LeetCode-FFA116?style=for-the-badge&logoColor=black"/></a>
@@ -83,10 +79,6 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HarrickChristoJP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarrickChristoJP&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=HarrickChristoJP&theme=tokyonight&hide_border=true&disable_animations=false" alt="GitHub Streak"/>
-
 </div>
 
 <br/>
@@ -123,7 +115,7 @@
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -203,7 +195,7 @@ MySQL-backed Flask platform processing 300+ pickup requests monthly with a respo
 
 <br/>
 
-##  2026 Goals
+## 🎯 2026 Goals
 
 - 🚀 Solve 500+ additional LeetCode problems
 - 🌱 Master Spring Boot & React at a production-ready level
@@ -213,7 +205,7 @@ MySQL-backed Flask platform processing 300+ pickup requests monthly with a respo
 
 <br/>
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/HarrickChristoJP/HarrickChristoJP/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation"/>
