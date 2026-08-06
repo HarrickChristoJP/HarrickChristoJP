@@ -2,7 +2,7 @@
 
 # Harrick Christo J P
 
-### Software Engineer • Full Stack Developer • AI & Data Science
+### Software Engineer • Full Stack Developer • Student
 
 <a href="https://www.linkedin.com/in/harrick-jp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/></a>
 <a href="https://github.com/HarrickChristoJP" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/></a>
