@@ -1,149 +1,201 @@
-<h1 align="center">Hi 👋, I'm Harrick Christo J P</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer | AI & Data Science Student | Full Stack Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6DB33F&height=220&section=header&text=Harrick%20Christo%20J%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20DS&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-I enjoy building scalable web applications, solving Data Structures & Algorithms problems,
-and developing AI-powered solutions.
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=650&lines=Building+scalable+apps+with+Spring+Boot+%26+React;Solving+DSA+in+Java+daily;Exploring+AI+%2F+ML+%2B+Embedded+Systems;Preparing+for+top+product-based+companies" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🚀 About Me
+<a href="https://www.linkedin.com/in/harrick-jp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/HarrickChristoJP" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/harrickchristojp/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:jpharrckchristo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-🎓 B.Tech Artificial Intelligence & Data Science
+<img src="https://komarev.com/ghpvc/?username=HarrickChristoJP&style=for-the-badge&color=6DB33F&label=PROFILE+VIEWS" alt="profile views"/>
 
-🏫 St. Joseph's College of Engineering (2024–2028)
+</div>
 
-💼 Software Engineering Intern @ Pyroferus Technologies
+<br/>
 
-🌱 Currently learning
-- Spring Boot
-- React
-- PostgreSQL
-- System Design
-- DSA (Java)
+## 👨‍💻 About Me
 
-🎯 Goal
-Become a Software Engineer at a top Product-Based Company.
+```yaml
+education:    "B.Tech - Artificial Intelligence & Data Science"
+institution:  "St. Joseph's College of Engineering (2024 - 2028)"
+current_role: "Software Engineering Intern @ Pyroferus Technologies"
+learning:     ["System Design", "Spring Boot", "React", "PostgreSQL"]
+practice:     "Daily DSA on LeetCode (Java)"
+goal:         "Software Engineer @ a top product-based company"
+```
 
----
+<br/>
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<table>
+<tr>
+<td valign="top" width="25%">
 
-### Frontend
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+</td>
+<td valign="top" width="25%">
 
-### Backend
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+</td>
+<td valign="top" width="25%">
 
-### Database
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+</td>
+<td valign="top" width="25%">
 
-### Tools
+**Database & Tools**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
-Git • GitHub • Linux • Postman • VS Code
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarrickChristoJP&show_icons=true&theme=tokyonight)
+<div align="center">
 
----
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=HarrickChristoJP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarrickChristoJP&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🔥 GitHub Streak
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HarrickChristoJP&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=HarrickChristoJP&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
----
+</div>
 
-## 💻 Most Used Languages
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrickChristoJP&layout=compact&theme=tokyonight)
+## 🧩 Competitive Programming
 
----
+<div align="center">
 
-## 🧩 LeetCode
+<a href="https://leetcode.com/u/harrickchristojp/">
+  <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-🔗 https://leetcode.com/u/YOUR_LEETCODE_USERNAME/
+<br/><br/>
 
----
+| 💻 Problems Solved | 🥇 SkillRack Medals | ☁️ Certification |
+|:---:|:---:|:---:|
+| 1500+ | 500+ | OCI Foundations Associate |
+
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🌱 Agricultural Management Platform
-- AI Crop Disease Detection
-- Flask
-- TensorFlow
-- Firebase
-- MySQL
+AI-powered crop disease detection
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
----
-
-### 🚦 Smart Traffic Management System
-- React
-- Spring Boot
-- SQL
-
----
+</td>
+<td width="50%">
 
 ### 💼 Zoho Books Inspired ERP
-- Spring Boot
-- React
-- PostgreSQL
+Full-stack ERP replicating Zoho Books modules
+<br/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚦 Smart Traffic Management System
+Real-time adaptive traffic signal control
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+<td width="50%">
 
 ### ♻️ E-Waste Management Platform
-- Flask
-- MySQL
+Platform for e-waste classification & recycling
+<br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
----
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🏆 Achievements
 
-🏅 Winner - IdeaForge Hackathon 2026
+<div align="center">
 
-🏅 Winner - HackNova 2025
+| Achievement | Detail |
+|---|---|
+| 🏆 Winner | IdeaForge Hackathon 2026 |
+| 🏆 Winner | HackNova 2025 |
+| 🥈 Runner-Up | HackAIThon 2025 |
+| 💻 Qualified | Flipkart GRiD 8.0 - Next Evaluation Round |
 
-🥈 Runner-Up - HackAIThon 2025
+</div>
 
-🏆 Qualified - Flipkart GRiD 8.0 Next Evaluation Round
+<br/>
 
-💻 1500+ Coding Problems Solved
+## 📈 Current Focus
 
-🥇 500+ SkillRack Medals
+<div align="center">
 
-☁️ Oracle Cloud Infrastructure Foundations Associate
+<img src="https://img.shields.io/badge/DSA%20in%20Java-✅-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-✅-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-✅-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-✅-4169E1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-✅-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product%20Company%20Prep-✅-blueviolet?style=for-the-badge"/>
 
----
+</div>
 
-## 📫 Connect with Me
+<br/>
 
-LinkedIn:
-https://linkedin.com/in/harrick-jp
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0077B5&height=120&section=footer"/>
 
-GitHub:
-https://github.com/HarrickChristoJP
+<div align="center">
 
-Email:
-jpharrckchristo@gmail.com
+⭐ **Thanks for visiting my profile — if you like my projects, consider giving them a star!**
 
----
-
-⭐ Thanks for visiting my profile!
+</div>
