@@ -75,8 +75,8 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=HarrickChristoJP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="Harrick's GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarrickChristoJP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HarrickChristoJP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="Harrick's GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarrickChristoJP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 
 </div>
 
@@ -125,10 +125,10 @@
 <br/>
 Full-stack ERP with secure REST APIs managing 5,000+ customer records and a reusable React component library.
 <br/>
-<img src="https://img.shields.io/badge/☕_Java-ED8B00?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/🍃_Spring_Boot-6DB33F?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/🐘_PostgreSQL-4169E1?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 </td>
 <td width="50%">
@@ -138,9 +138,9 @@ Full-stack ERP with secure REST APIs managing 5,000+ customer records and a reus
 <br/>
 React dashboards visualizing 10,000+ real-time traffic data points via REST APIs with optimized SQL schemas.
 <br/>
-<img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/🍃_Spring_Boot-6DB33F?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 
 </td>
 </tr>
@@ -152,10 +152,10 @@ React dashboards visualizing 10,000+ real-time traffic data points via REST APIs
 <br/>
 AI crop disease detection model at 92% accuracy using TensorFlow, with Flask APIs and Firebase Auth.
 <br/>
-<img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
 
 </td>
 <td width="50%">
@@ -165,10 +165,10 @@ AI crop disease detection model at 92% accuracy using TensorFlow, with Flask API
 <br/>
 MySQL-backed Flask platform processing 300+ pickup requests monthly with a responsive tracking UI.
 <br/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 
 </td>
 </tr>
