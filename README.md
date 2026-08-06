@@ -8,12 +8,11 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/harrick-jp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/HarrickChristoJP" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/harrickchristojp/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:jpharrckchristo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=HarrickChristoJP&style=for-the-badge&color=6DB33F&label=PROFILE+VIEWS" alt="profile views"/>
+<a href="https://www.linkedin.com/in/harrick-jp/" target="_blank"><img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/HarrickChristoJP" target="_blank"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logoColor=white"/></a>
+<a href="https://leetcode.com/u/harrickchristojp/" target="_blank"><img src="https://img.shields.io/badge/🧩_LeetCode-FFA116?style=for-the-badge&logoColor=black"/></a>
+<a href="mailto:jpharrckchristo@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/HarrickChristoJP/HarrickChristoJP/blob/main/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Resume-Download-2ea44f?style=for-the-badge"/></a>
 
 </div>
 
@@ -21,14 +20,12 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-education:    "B.Tech - Artificial Intelligence & Data Science"
-institution:  "St. Joseph's College of Engineering (2024 - 2028)"
-current_role: "Software Engineering Intern @ Pyroferus Technologies"
-learning:     ["System Design", "Spring Boot", "React", "PostgreSQL"]
-practice:     "Daily DSA on LeetCode (Java)"
-goal:         "Software Engineer @ a top product-based company"
-```
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 🏫 St. Joseph's College of Engineering (2024 – 2028) — CGPA: 8.59
+- 💼 Software Engineering Intern @ Pyroferus Technologies (Spring Boot, React, PostgreSQL)
+- 💻 Solving DSA daily on LeetCode using Java
+- 🌱 Learning System Design, Spring Boot, React & PostgreSQL in depth
+- 🎯 Aspiring Software Engineer at a top product-based company
 
 <br/>
 
@@ -40,37 +37,40 @@ goal:         "Software Engineer @ a top product-based company"
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/☕_Java-ED8B00?style=flat-square&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/🐍_Python-3776AB?style=flat-square&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/JS_JavaScript-F7DF1E?style=flat-square&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white"/>
 
 </td>
 <td valign="top" width="25%">
 
 **Frontend**
 <br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=flat-square&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logoColor=white"/>
 
 </td>
 <td valign="top" width="25%">
 
 **Backend**
 <br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/🍃_Spring_Boot-6DB33F?style=flat-square&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/RESTful_APIs-informational?style=flat-square"/>
 
 </td>
 <td valign="top" width="25%">
 
 **Database & Tools**
 <br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/🐘_PostgreSQL-4169E1?style=flat-square&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/🐧_Linux-FCC624?style=flat-square&logoColor=black"/>
 
 </td>
 </tr>
@@ -87,7 +87,27 @@ goal:         "Software Engineer @ a top product-based company"
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=HarrickChristoJP&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=HarrickChristoJP&theme=tokyonight&hide_border=true&disable_animations=false" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HarrickChristoJP&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarrickChristoJP&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -98,14 +118,18 @@ goal:         "Software Engineer @ a top product-based company"
 <div align="center">
 
 <a href="https://leetcode.com/u/harrickchristojp/">
-  <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-harrickchristojp-FFA116?style=for-the-badge"/>
 </a>
 
 <br/><br/>
 
-| 💻 Problems Solved | 🥇 SkillRack Medals | ☁️ Certification |
-|:---:|:---:|:---:|
-| 1500+ | 500+ | OCI Foundations Associate |
+<img src="https://leetcard.jacoblin.cool/harrickchristojp?theme=dark&font=Karma&extension=activity" alt="LeetCode Stats"/>
+
+<br/><br/>
+
+| 🥇 SkillRack Medals | ☁️ Certification |
+|:---:|:---:|
+| 500+ | OCI Foundations Associate |
 
 </div>
 
@@ -117,44 +141,55 @@ goal:         "Software Engineer @ a top product-based company"
 <tr>
 <td width="50%">
 
-### 🌱 Agricultural Management Platform
-AI-powered crop disease detection
+### 💼 Zoho Books-Inspired ERP
+🔗 [Repository](https://github.com/HarrickChristoJP/zoho-books-erp)
 <br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+Full-stack ERP with secure REST APIs managing 5,000+ customer records and a reusable React component library.
+<br/>
+<img src="https://img.shields.io/badge/☕_Java-ED8B00?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/🍃_Spring_Boot-6DB33F?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/🐘_PostgreSQL-4169E1?style=flat-square&logoColor=white"/>
 
 </td>
 <td width="50%">
 
-### 💼 Zoho Books Inspired ERP
-Full-stack ERP replicating Zoho Books modules
+### 🚦 Smart Traffic Management System
+🔗 [Repository](https://github.com/HarrickChristoJP/smart-traffic-management)
 <br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+React dashboards visualizing 10,000+ real-time traffic data points via REST APIs with optimized SQL schemas.
+<br/>
+<img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/🍃_Spring_Boot-6DB33F?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🚦 Smart Traffic Management System
-Real-time adaptive traffic signal control
+### 🌱 Agricultural Management Platform
+🔗 [Repository](https://github.com/HarrickChristoJP/agri-management-platform)
 <br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+AI crop disease detection model at 92% accuracy using TensorFlow, with Flask APIs and Firebase Auth.
+<br/>
+<img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logoColor=black"/>
 
 </td>
 <td width="50%">
 
 ### ♻️ E-Waste Management Platform
-Platform for e-waste classification & recycling
+🔗 [Repository](https://github.com/HarrickChristoJP/e-waste-management)
 <br/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+MySQL-backed Flask platform processing 300+ pickup requests monthly with a responsive tracking UI.
+<br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logoColor=white"/>
 
 </td>
 </tr>
@@ -168,27 +203,33 @@ Platform for e-waste classification & recycling
 
 | Achievement | Detail |
 |---|---|
-| 🏆 Winner | IdeaForge Hackathon 2026 |
-| 🏆 Winner | HackNova 2025 |
-| 🥈 Runner-Up | HackAIThon 2025 |
-| 💻 Qualified | Flipkart GRiD 8.0 - Next Evaluation Round |
+| 🏆 Winner (Team Leader) | IdeaForge Hackathon 2026 |
+| 🏆 Winner (Team Leader) | HackNova 2025 |
+| 🥈 Runner-Up (Team Leader) | HackAIThon 2025 |
+| 💻 Qualified | Flipkart GRiD 8.0 – Next Evaluation Round |
+| ☁️ Certified | Oracle Cloud Infrastructure Foundations Associate |
+| 🏦 Completed | JPMorgan Chase Software Engineering Virtual Experience (Forage) |
+| 📚 Certified | NPTEL – DBMS & Python for Data Science |
 
 </div>
 
 <br/>
 
-## 📈 Current Focus
+## 🎯 2026 Goals
 
-<div align="center">
+- 🚀 Solve 500+ additional LeetCode problems
+- 🌱 Master Spring Boot & React at a production-ready level
+- 💼 Secure a Software Engineering role at a product-based company
+- 📚 Deep-dive into System Design
+- ☁️ Explore Cloud & DevOps fundamentals
 
-<img src="https://img.shields.io/badge/DSA%20in%20Java-✅-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-✅-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-✅-61DAFB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-✅-4169E1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-✅-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Product%20Company%20Prep-✅-blueviolet?style=for-the-badge"/>
+<br/>
 
-</div>
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HarrickChristoJP/HarrickChristoJP/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation"/>
+</p>
 
 <br/>
 
