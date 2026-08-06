@@ -122,7 +122,7 @@
 <td width="50%">
 
 ### 💼 Zoho Books-Inspired ERP
-🔗 [Repository](https://github.com/HarrickChristoJP/zoho-books-erp)
+🔗 [Repository](private)
 <br/>
 Full-stack ERP with secure REST APIs managing 5,000+ customer records and a reusable React component library.
 <br/>
@@ -135,7 +135,7 @@ Full-stack ERP with secure REST APIs managing 5,000+ customer records and a reus
 <td width="50%">
 
 ### 🚦 Smart Traffic Management System
-🔗 [Repository](https://github.com/HarrickChristoJP/smart-traffic-management)
+🔗 [Repository]()
 <br/>
 React dashboards visualizing 10,000+ real-time traffic data points via REST APIs with optimized SQL schemas.
 <br/>
@@ -149,7 +149,7 @@ React dashboards visualizing 10,000+ real-time traffic data points via REST APIs
 <td width="50%">
 
 ### 🌱 Agricultural Management Platform
-🔗 [Repository](https://github.com/HarrickChristoJP/agri-management-platform)
+🔗 [Repository](https://github.com/HarrickChristoJP/Plant-Disease-Detection-Management-System)
 <br/>
 AI crop disease detection model at 92% accuracy using TensorFlow, with Flask APIs and Firebase Auth.
 <br/>
@@ -162,7 +162,7 @@ AI crop disease detection model at 92% accuracy using TensorFlow, with Flask API
 <td width="50%">
 
 ### ♻️ E-Waste Management Platform
-🔗 [Repository](https://github.com/HarrickChristoJP/e-waste-management)
+🔗 [Repository](https://github.com/HarrickChristoJP/ewaste-ai-platform)
 <br/>
 MySQL-backed Flask platform processing 300+ pickup requests monthly with a responsive tracking UI.
 <br/>
