@@ -115,14 +115,14 @@
 
 <br/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 💼 Zoho Books-Inspired ERP
-🔗 [Repository](private)
+🔒 Private Repository
 <br/>
 Full-stack ERP with secure REST APIs managing 5,000+ customer records and a reusable React component library.
 <br/>
@@ -135,7 +135,7 @@ Full-stack ERP with secure REST APIs managing 5,000+ customer records and a reus
 <td width="50%">
 
 ### 🚦 Smart Traffic Management System
-🔗 [Repository]()
+🔗 [Repository](https://github.com/HarrickChristoJP/Traffic_Management)
 <br/>
 React dashboards visualizing 10,000+ real-time traffic data points via REST APIs with optimized SQL schemas.
 <br/>
