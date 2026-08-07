@@ -14,18 +14,18 @@
 
 <br/>
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science
-- 🏫 St. Joseph's College of Engineering (2024 – 2028) — CGPA: 8.59
-- 💼 Software Engineering Intern @ Pyroferus Technologies (Spring Boot, React, PostgreSQL)
-- 💻 Solving DSA daily on LeetCode using Java
-- 🌱 Learning System Design, Spring Boot, React & PostgreSQL in depth
-- 🎯 Aspiring Software Engineer at a top product-based company
+-  B.Tech in Artificial Intelligence & Data Science
+-  St. Joseph's College of Engineering (2024 – 2028) — CGPA: 8.59
+-  Software Engineering Intern @ Pyroferus Technologies (Spring Boot, React, PostgreSQL)
+-  Solving DSA daily on LeetCode using Java
+-  Learning System Design, Spring Boot, React & PostgreSQL in depth
+-  Aspiring Software Engineer at a top product-based company
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table>
 <tr>
@@ -74,7 +74,7 @@
 
 <br/>
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 <br/>
 
-## 🧩 Competitive Programming
+##  Competitive Programming
 
 <div align="center">
 
@@ -106,14 +106,14 @@
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 💼 Zoho Books-Inspired ERP
-🔒 Private Repository
+###  Zoho Books-Inspired ERP
+ Private Repository
 <br/>
 Full-stack ERP with secure REST APIs managing 5,000+ customer records and a reusable React component library.
 <br/>
@@ -125,8 +125,8 @@ Full-stack ERP with secure REST APIs managing 5,000+ customer records and a reus
 </td>
 <td width="50%">
 
-### 🚦 Smart Traffic Management System
-🔗 [Repository](https://github.com/HarrickChristoJP/Traffic_Management)
+###  Smart Traffic Management System
+ [Repository](https://github.com/HarrickChristoJP/Traffic_Management)
 <br/>
 React dashboards visualizing 10,000+ real-time traffic data points via REST APIs with optimized SQL schemas.
 <br/>
@@ -139,7 +139,7 @@ React dashboards visualizing 10,000+ real-time traffic data points via REST APIs
 <tr>
 <td width="50%">
 
-### 🌱 Agricultural Management Platform
+###  Agricultural Management Platform
 🔗 [Repository](https://github.com/HarrickChristoJP/Plant-Disease-Detection-Management-System)
 <br/>
 AI crop disease detection model at 92% accuracy using TensorFlow, with Flask APIs and Firebase Auth.
@@ -152,7 +152,7 @@ AI crop disease detection model at 92% accuracy using TensorFlow, with Flask API
 </td>
 <td width="50%">
 
-### ♻️ E-Waste Management Platform
+###  E-Waste Management Platform
 🔗 [Repository](https://github.com/HarrickChristoJP/ewaste-ai-platform)
 <br/>
 MySQL-backed Flask platform processing 300+ pickup requests monthly with a responsive tracking UI.
@@ -168,35 +168,35 @@ MySQL-backed Flask platform processing 300+ pickup requests monthly with a respo
 
 <br/>
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
 | Achievement | Detail |
 |---|---|
-| 🏆 Winner (Team Leader) | IdeaForge Hackathon 2026 |
-| 🏆 Winner (Team Leader) | HackNova 2025 |
-| 🥈 Runner-Up (Team Leader) | HackAIThon 2025 |
-| 💻 Qualified | Flipkart GRiD 8.0 – Next Evaluation Round |
-| ☁️ Certified | Oracle Cloud Infrastructure Foundations Associate |
-| 🏦 Completed | JPMorgan Chase Software Engineering Virtual Experience (Forage) |
-| 📚 Certified | NPTEL – DBMS & Python for Data Science |
+|  Winner (Team Leader) | IdeaForge Hackathon 2026 |
+|  Winner (Team Leader) | HackNova 2025 |
+|  Runner-Up (Team Leader) | HackAIThon 2025 |
+|  Qualified | Flipkart GRiD 8.0 – Next Evaluation Round |
+|  Certified | Oracle Cloud Infrastructure Foundations Associate |
+|  Completed | JPMorgan Chase Software Engineering Virtual Experience (Forage) |
+|  Certified | NPTEL – DBMS & Python for Data Science |
 
 </div>
 
 <br/>
 
-## 🎯 2026 Goals
+##  2026 Goals
 
-- 🚀 Solve 500+ additional LeetCode problems
-- 🌱 Master Spring Boot & React at a production-ready level
-- 💼 Secure a Software Engineering role at a product-based company
-- 📚 Deep-dive into System Design
-- ☁️ Explore Cloud & DevOps fundamentals
+-  Solve 500+ additional LeetCode problems
+-  Master Spring Boot & React at a production-ready level
+-  Secure a Software Engineering role at a product-based company
+-  Deep-dive into System Design
+-  Explore Cloud & DevOps fundamentals
 
 <br/>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/HarrickChristoJP/HarrickChristoJP/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation"/>
